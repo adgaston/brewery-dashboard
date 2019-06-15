@@ -1,7 +1,11 @@
 # Brewery Dashboard
-Using HTML &amp; CSS to create a dashboard showing an analysis of the brewery industry
+An analysis of the brewery industry
 
 Live link available here: [vizdashboard](https://adgaston.github.io/brewery-dashboard/vizdashboard.html)
+
+Analysis was done as part of a group project. Was heavily involved in the project and can answer any questions about the dataset.
+
+View the [_ANALYSIS](/_ANALYSIS/) folder for a peak inside the data analysis for this project
 
 Simple visualization dashboard website consisting of:
 - landing page
